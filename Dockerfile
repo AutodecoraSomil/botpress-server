@@ -1,8 +1,4 @@
-FROM botpress/server:12.30.2
-
-WORKDIR /botpress
-
-COPY . .
+FROM botpress/server:v12_32_4
 
 EXPOSE 3000
 
