@@ -1,4 +1,4 @@
-FROM botpress/server:v12_32_4
+FROM botpress/server:v12_26_7
 
 EXPOSE 3000
 
